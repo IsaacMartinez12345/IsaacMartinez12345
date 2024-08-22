@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on getting my associates in cyber security and transferring to Cal State San Bernandino 
 - 🌱 I’m currently learning how to cook more healthier meals
 - ⚡ Fun fact: I love going to gym
+- ![image](https://github.com/IsaacMartinez12345/IsaacMartinez12345/blob/91c36d5a874ab57940b80f1418000e1bf8b40960/A57E1127-CA92-4F2E-ACBA-52155157D71E.JPG)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
